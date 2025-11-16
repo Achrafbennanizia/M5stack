@@ -1,4 +1,4 @@
-# 📷 M5Stack Camera Monitor
+# 📷 M5Stack Camera Monitor (Part 2)
 
 _A Wi-Fi camera viewer running directly on the M5Stack Core (ESP32)_
 
